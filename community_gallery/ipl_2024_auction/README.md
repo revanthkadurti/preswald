@@ -2,7 +2,7 @@
 
 ## Overview
 This Preswald application provides an interactive dashboard for exploring IPL 2024 Auction data.
-
+Deployed link : https://ipl-2024-auction-111794-eeuhhhoq.preswald.app
 ## Features
 - Interactive Filtering: A slider component lets users select a threshold for "Price Paid." As they move the slider, the visualizations update instantly.
 - Data Analysis: The dashboard provides insights into player nationalities, price distributions, and roles.
